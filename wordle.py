@@ -1,4 +1,4 @@
-# MMARVIN UWALAKA 
+# MARVIN UWALAKA 
 # import random module
 import random
 content = open('word5Dict.txt','r')         #  open currupted file  to be read
