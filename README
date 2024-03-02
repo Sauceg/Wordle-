@@ -1,4 +1,3 @@
-Your code looks like a combination of tasks, including file handling, dictionary creation, and a Wordle-like game. Let's break down the code and summarize its functionality:
 
 1. **File Handling and Dictionary Creation:**
    - The code opens a file named 'word5Dict.txt', reads its content, and separates words by '#'.
